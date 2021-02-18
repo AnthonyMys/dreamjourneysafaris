@@ -185,6 +185,16 @@ a {
 	padding-bottom: 226px; 
 	background-size: cover;
 }
+.carousel-item{
+     width: 100%
+     height:450px;
+}
+.carousel-item img{
+     background-size: cover;
+     background-repeat: no-repeat;
+     height:600px;
+     width: 100%;
+}
 .last{
 	padding-top: 10px;
 	padding-left: 40px;
@@ -209,6 +219,9 @@ a {
     font-size: 14pt;
 	color: #ffffff;
 	padding-bottom: 30px;
+/*    font-family: Dynalight;
+    font-size: 28px;*/
+
 }
 .btn_main{
 	width: 40%;
