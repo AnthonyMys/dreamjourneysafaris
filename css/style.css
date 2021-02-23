@@ -159,11 +159,11 @@ a {
 .logo h4{
     text-align: left;
 	text-transform: uppercase;
-    font-family: Nosifer;
-	font-weight: 600;
-    font-size: 
+    font-family: Arial;
+	font-weight: 700 !important;
+    font-size: 21px !important;
     line-height: 50px;
-	margin-left: 0px;
+	margin-left: 10px;
 	margin-top: 0px;
 	color: #2874A6;
 }
